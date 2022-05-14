@@ -8,3 +8,4 @@ module "s3-bucket" {
   versioning = {
     enabled = true
 }
+}
